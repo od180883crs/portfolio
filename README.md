@@ -30,7 +30,7 @@ Mini App для клієнтів і веб-адмінка для менедже�
 
 ## [Telegram-бот сімейного бюджету + Google Таблиця](family-budget-bot/)
 
-[![Дашборд бюджету](family-budget-bot/dashboard.png)](family-budget-bot/)
+[![Бот сімейного бюджету](family-budget-bot/cover.png)](family-budget-bot/)
 
 Доходи й витрати кнопками в Telegram, спільна Google Таблиця з дашбордом і діаграмами,
 регулярні платежі з нагадуваннями.
